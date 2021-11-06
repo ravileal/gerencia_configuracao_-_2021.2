@@ -10,4 +10,4 @@
 
 ## Ultima alteração  
 
-## Essas são as alterações da segunda prática | Pedro
+## Essas são as alterações da segunda prática | Ravi e Pedro.
