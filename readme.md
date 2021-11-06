@@ -10,4 +10,4 @@
 
 ## Ultima alteração  
 
-## Essas são as alterações da segunda prática
+## Essas são as alterações da segunda prática - Aurislania
