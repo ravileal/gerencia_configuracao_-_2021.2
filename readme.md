@@ -10,4 +10,4 @@
 
 ## Ultima alteração  
 
-## Essas são as alterações da segunda prática - Aurislania
+## Essas são as alterações da segunda prática | Ravi, Pedro e Aurislania.
