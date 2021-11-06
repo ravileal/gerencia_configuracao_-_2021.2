@@ -8,6 +8,6 @@
 
 ## Depois disso, utilize o comando git commit -m "nome_da_branch" para realizar o commit das suas modificações
 
-## Ultima alteração  
+## Ultima alteração | Agora uma nova modificação para ser conflitada
 
 ## Essas são as alterações da segunda prática | Ravi Leal, Pedro e Aurislania.
