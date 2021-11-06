@@ -9,3 +9,5 @@
 ## Depois disso, utilize o comando git commit -m "nome_da_branch" para realizar o commit das suas modificações
 
 ## Ultima alteração  
+
+## Essas são as alterações da segunda prática
