@@ -10,4 +10,4 @@
 
 ## Ultima alteração 
 
-## Essas são as alterações da segunda prática | Ravi Leal, Lázaro, Pedro e Aurislania.
+## Essas são as alterações da segunda prática | Ravi Leal, Lázaro Júnior, Pedro e Aurislania.
