@@ -8,6 +8,6 @@
 
 ## Depois disso, utilize o comando git commit -m "nome_da_branch" para realizar o commit das suas modificações
 
-## Ultima alteração | Lazaro
+## Ultima alteração | Lázaro
 
 ## Essas são as alterações da segunda prática | Ravi Leal, Pedro e Aurislania.
